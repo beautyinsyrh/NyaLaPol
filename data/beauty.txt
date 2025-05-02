@@ -1,0 +1,3 @@
+Rekayasa Perangkat Lunak|2025-05-06|sudah|Kuliah|-
+Pemrograman Berorientasi Objek|2025-05-04|sudah|Tugas|Proposal
+Analisis Desain dan Sistem|2025-05-04|belum|Tugas|Use Case
